@@ -1,0 +1,8 @@
+- name: About
+  link: /about/
+- name: Apply
+  link: /apply/
+- name: Members
+  link: /members/
+- name: Contact
+  link: /contact/

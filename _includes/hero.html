@@ -1,0 +1,139 @@
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+<style>
+</style>
+
+
+
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
+    <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
+        <div class="container">
+            <h1 class="title is-2" style="color:#022343">{{ page.title }}</h1>
+            <p class="subtitle is-3" style="color:#022343">{{ page.subtitle }}</p>
+            
+            <!-- If Author Bio -->
+            {% if page.show_avatar %}
+            <section>
+                <div class="author_container">
+                    <!-- Left Side -->
+                    <div class="author_child_left">
+                        <section>
+                            <div class="author_sidebar">
+                                <!-- Author Avatar -->
+                                <div class= "author_about">
+                                    <div class="cover-author_image">
+                                        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}{% if author.avatar %}{{author.avatar}}{% endif %}" alt="{{author.name}}"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="author_child_right">
+                        <h1 class="author_info_intro"> {{ author.intro }}</h1>
+                        <p class="author_info_blurb"> {{ author.blurb }}</p>
+                        
+                        <!-- Author Icons -->
+                        <section class= "author_bio">
+                            <ul>
+                                {% if author.email %}
+                                  <li>
+                                    <a href="mailto:{{ author.email }}" rel="me" class="u-email">
+                                      <meta itemprop="email" content="{{ author.email }}" />
+                                      <i class="fas fa-fw fa-cog fa-envelope-square fa-2x" aria-hidden="true"></i>
+                                  </li>
+                                {% endif %}
+                                
+                                {% if author.twitter %}
+                                  <li>
+                                    <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-twitter-square fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.facebook %}
+                                  <li>
+                                    <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-facebook-square fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.linkedin %}
+                                  <li>
+                                    <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-linkedin fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.instagram %}
+                                  <li>
+                                    <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-instagram fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.bitbucket %}
+                                  <li>
+                                    <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-bitbucket fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.github %}
+                                  <li>
+                                    <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-github fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.gitlab %}
+                                  <li>
+                                    <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-gitlab fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.stackoverflow %}
+                                  <li>
+                                    <a href="https://stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                      <i class="fab fa-fw fa-cog fa-stack-overflow fa-2x" aria-hidden="true"></i>
+                                    </a>
+                                  </li>
+                                {% endif %}
+
+                                {% if author.youtube %}
+                                  {% if author.youtube contains "://" %}
+                                    <li>
+                                      <a href="{{ author.youtube }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                        <i class="fab fa-fw fa-cog fa-youtube fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                    </li>
+                                  {% elsif author.youtube %}
+                                    <li>
+                                      <a href="https://www.youtube.com/user/{{ author.youtube }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+                                        <i class="fab fa-fw fa-cog fa-youtube fa-2x" aria-hidden="true"></i>
+                                      </a>
+                                    </li>
+                                  {% endif %}
+                                {% endif %}
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+            </section>
+            {% endif %}
+
+            
+            {% if page.hero_link %}
+                <a href="{{ page.hero_link | relative_url }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
+            {% endif %}
+        </div>
+    </div>
+</section>

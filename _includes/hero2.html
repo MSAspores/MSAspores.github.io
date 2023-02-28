@@ -1,0 +1,41 @@
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+<style>
+.circular_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo*/
+  display:inline-block;
+  vertical-align:middle;
+}
+</style>
+
+<section class="hero2 {% if page.hero2_height %} {{ page.hero2_height }} {% else %} is-medium {% endif %} is-bold is-primary"
+    {% if page.hero2_image %} style="background: url('{{ page.hero2_image }}') no-repeat center center; background-size: cover;" {% endif %}>
+    <div class="hero2-body {% if page.hero2_darken %} hero2-darken {% endif %}">
+        <div class="container">
+            <h1 class="title is-2">{{ page.title }}</h1>
+            <p class="subtitle is-3">{{ page.subtitle }}</p>
+            
+            {% if page.hero2_avatar %}
+                <div class = "circular_image">
+                    <img src="{{ author.avatar | relative_url }}"/>
+                </div>
+            {% endif %}
+            
+            {% if page.hero2_link %}
+                <a href="{{ page.hero2_link | relative_url }}" class="button is-info is-large">{{ page.hero2_link_text }}</a>
+            {% endif %}
+        </div>
+    </div>
+</section>

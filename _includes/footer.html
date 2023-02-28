@@ -1,0 +1,35 @@
+<footer class="footer">
+    <div class="container">
+        
+        <!--
+        {% if site.footer_menu %}
+            <div class="columns is-multiline">
+                {% for item in site.data[site.footer_menu] %}
+                    <div align="left">
+                        <div>
+                            &nbsp;&nbsp;
+                            <a href="{{ item.link | relative_url }}" class="link footer_text">{{ item.name }}{% unless forloop.last %}&nbsp;&nbsp;&nbsp;{% endunless %}</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+        -->
+        
+        {% if site.custom_footer.links %}
+        <div class="columns is-multiline">
+            {% for link in site.custom_footer.links %}
+            <div align="left">
+                &nbsp;&nbsp;
+                <a href="{{ link.url }}" class="link footer_text" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }} footer_text" aria-hidden="true"></i> {{ link.label }}{% unless forloop.last %}&nbsp;&nbsp;&nbsp;{% endunless %}</a>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        
+        <div class="content is-small">
+            <p align="left" class="" style="color:#ffffff;">By GitHub through <a href="http://www.csrhymes.com/bulma-clean-theme/" style="color:#85D9E7">Bulma Clean Theme</a>.</p>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,75 @@
+
+### Theme ###
+remote_theme  : chrisrhymes/bulma-clean-theme
+theme_color   : '#022343'
+
+
+### Site settings ###
+title   : SPORES
+tagline   : 
+lang    : en
+email   : 
+description : 
+baseurl   : "" # the subpath of your site, e.g. /blog
+url   : "https://MSAspores.github.io/program"
+open_new_tab  : true  
+
+
+# Site Logos
+logo    : "assets/site_images/SPORES_logo.png"
+favicon : assets/site_images/SPORES_logo.png
+
+
+# Author Info
+author:
+  name      : "SPORES"
+  avatar    : "assets/site_images/SPORES_logo.png"
+  intro     : 
+  bio       : 
+  blurb     : 
+  location  : 
+  email     : 
+  github    :
+  linkedin  : 
+  twitter   : 
+  facebook  :
+  instagram :
+  youtube   : 
+
+
+# Custom Footer
+custom_footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MSAfungi"
+
+
+### Analytics ###
+google_analytics:
+
+
+
+# Build settings
+markdown: kramdown
+#theme: minima
+
+plugins:
+  - jekyll-feed
+  
+include:
+  - _pages
+
+permalink: pretty
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
