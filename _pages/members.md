@@ -3,11 +3,8 @@ layout: page
 title: Members
 permalink: /members/
 
-hero_height: is-fullwidth
-hero_image: /assets/site_images/backgrounds/gradientBlue.png
 ---
 
-### Members   
 
 <table style="width:100%; border:none;" cellspacing="10" >
 
