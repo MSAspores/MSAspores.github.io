@@ -7,6 +7,7 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
 ---
 
 ## Increasing Diversity at the [Mycological Society of America](https://msafungi.org/) through Mentorship
+![](/assets/site_images/spores_b.jpg)
 
 <br>
  
@@ -34,6 +35,21 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
   
  * Branco Sara and Vellinga Else. 2015. Gender Balance in Mycology. _Inoculum_, Vol. 66, Issue 5, 1-4.  
 
+<br>
+## Apply to become a SPORES mentor or a mentee  
+<p>The application deadline is April 15<sup>th</sup>, 2023</p>
+<style> .button { display: inline-block; padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #1c87c9;
+      border-radius: 6px;
+      outline: none;
+      } 
+</style> 
+<a href="https://msaspores.github.io/apply" class="button">
+Apply now
+</a>
 
 
 
