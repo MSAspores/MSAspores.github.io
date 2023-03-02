@@ -1,14 +1,10 @@
 ---
 layout: page
-
+hero_height: is-fullwidth
 permalink: /about/
 
 ---
-
-![](/assets/site_images/spores_b.jpg)
- 
-
-## Apply to become a SPORES mentor or a mentee
+## Apply to become a SPORES mentor or a mentee  
 <p>The application deadline is April 15<sup>th</sup>, 2022</p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
@@ -22,7 +18,6 @@ permalink: /about/
 <a href="https://msaspores.github.io/apply" class="button">
 Apply now
 </a>
-
 
 <br> 
     
