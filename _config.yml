@@ -11,7 +11,7 @@ lang    : en
 email   : 
 description : 
 baseurl   : "" # the subpath of your site, e.g. /blog
-url   : "https://MSAspores.github.io/index.md"
+url   : "https://MSAspores.github.io"
 open_new_tab  : true  
 
 
