@@ -5,14 +5,13 @@ title: SPORES
 permalink: /about/
 
 ---
+## Our program
 
 **S.P.O.R.E.S. (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
 ## Mission  
 
 The mission of SPORES is to provide opportunities for first-time undergraduate students to be introduced to MSA by current mycologists (mentors) in a friendly and constructive environment, promoting a sense of belonging in society with the goal of retaining them as long-term members. To accomplish the mission of SPORES, we request MSA’s support mentee membership and annual meeting attendance. By providing financial aid, MSA will actively invest in its mission of promoting science equity and diversity in the society. 
-
-<br>
 
 ## How does SPORES work?
 
@@ -21,8 +20,8 @@ Specifically, SPORES provides opportunities for undergraduate students from hist
 ## What does SPORES cover?  
   
 SPORES covers MSA meeting registration and  one year membership for mentees.  
- 
-<br>
+
+---
 
 ## Mentees
 
@@ -38,8 +37,6 @@ Mentee duties include:
 - Submit the SPORES post-meeting survey and 500 words about their experience (no later than 30 days after the final day of the annual MSA meeting)
 - Submit SPORES annual assessment surveys for 3 years
  
-<br>
-
 ## Mentors
 
 Mentors are **current MSA members (PhD candidates or mycologists with PhDs)**.
@@ -55,7 +52,7 @@ Mentor duties include:
 - Meet with mentees at the opening reception, second-day lunch, and join them at the plenary and Karling lectures and respective coffee break
 - Submit the SPORES post-meeting survey and 500 words about their experience (no later than 30 days after the final day of the annual MSA meeting)
 
-<br>
+---
 
 ## SPORES timeline
 
