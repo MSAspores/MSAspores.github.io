@@ -25,7 +25,7 @@ Specifically, SPORES provides opportunities for undergraduate students from hist
 
 Mentees are **underrepresented undergraduate students** that are not MSA members and have not attended MSA meetings. Mentees are matched with a mentor and receive funds to cover MSA meeting registration (including the banquet) and 1-year MSA membership. Preference will be given to students attending institutions nearby the MSA meeting location (Flagstaff, AZ for the 2023 MSA meeting).
 
-Students interested in becoming SPORES mentees should fill the application form[BS2] , that requires information on **1) scientific interests and background, 2) personal interests, 3) what they hope to gain from the program and mentor, and how it will benefit them in the long term, and 4) what attributes are they looking for in a mentor and why.** This information will assist the SPORES committee in matching mentees to mentors. Mentees will be selected through a lottery and all eligible applicants will be considered.
+Students interested in becoming SPORES mentees should fill the application form, that requires information on **1) scientific interests and background, 2) personal interests, 3) what they hope to gain from the program and mentor, and how it will benefit them in the long term, and 4) what attributes are they looking for in a mentor and why.** This information will assist the SPORES committee in matching mentees to mentors. Mentees will be selected through a lottery and all eligible applicants will be considered.
  
 Mentee duties include:
 
@@ -62,7 +62,7 @@ Mentor duties include:
 | Submit call for mentors and mentees                                                                        | March 2023                   |
 | Selection of mentors and mentees*                                                                          | April-May 2023               |
 | Preconference initial introduction of mentors and mentees                                                  | June 2023                    |
-| Pre-meeting survey to mentors and mentees                                                                  | July 17, 2023[BS5]           |
+| Pre-meeting survey to mentors and mentees                                                                  | July 17, 2023                |
 | MSA Annual Meeting  (MSA Opening Reception, Lunch second day of conference, Plenary and Karling Lecture)   | July 29, 2023 August 3, 2023 |
 | Post-meeting survey to mentors and mentees                                                                 | August 8, 2023               |
 | Mentee annual surveys                                                                                      | 2024, 2025, 2026             |
