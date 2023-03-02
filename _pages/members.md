@@ -2,6 +2,7 @@
 layout: page
 title: Members
 permalink: /members/
+hero_height: is-fullwidth
 
 ---
 
