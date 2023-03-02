@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 hero_height: is-fullwidth
 permalink: /about/
 
@@ -60,8 +59,8 @@ Mentor duties include:
 
 | Activity                                                                                                   | Date                         |
 |------------------------------------------------------------------------------------------------------------|------------------------------|
-| Submit call for mentors and mentees                                                                        | February 2023                |
-| Selection of mentors and mentees*                                                                          | April 2023                   |
+| Submit call for mentors and mentees                                                                        | March 2023                   |
+| Selection of mentors and mentees*                                                                          | April-May 2023               |
 | Preconference initial introduction of mentors and mentees                                                  | June 2023                    |
 | Pre-meeting survey to mentors and mentees                                                                  | July 17, 2023[BS5]           |
 | MSA Annual Meeting  (MSA Opening Reception, Lunch second day of conference, Plenary and Karling Lecture)   | July 29, 2023 August 3, 2023 |
