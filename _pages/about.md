@@ -6,29 +6,24 @@ permalink: /about/
 ---
 
 ![](/assets/site_images/spores_b.jpg)
-  
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      .button {
-        display: inline-block;
-        padding: 10px 20px;
-        text-align: center;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #1c87c9;
-        border-radius: 6px;
-        outline: none;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>Apply to become a SPORES mentor or a mentee</h2><p>
-    <p>The application deadline is April 15<sup>th</sup>, 2022</p>
-    <a class="button" href="https://msaspores.github.io/apply">Apply now</a>
-  </body>
-</html>
+ 
+
+## Apply to become a SPORES mentor or a mentee
+<p>The application deadline is April 15<sup>th</sup>, 2022</p>
+<style> .button { display: inline-block; padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #1c87c9;
+      border-radius: 6px;
+      outline: none;
+      } 
+</style> 
+<a href="https://msaspores.github.io/apply" class="button">
+Apply now
+</a>
+
+
 <br> 
     
 **SPORES (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
