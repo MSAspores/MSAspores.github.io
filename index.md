@@ -25,3 +25,15 @@ The link to the application form can be found in the [Apply](https://msaspores.g
 Information on current member of SPORES can be found in the [Members](https://msaspores.github.io/members/) page
 
 For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ortiz432@umn.edu)
+
+<br>
+
+### References
+
+ * Cheeke Tanya E., Branco Sara, Haelewaters Danny, Natvig Donald O., Maltz Mia, Rodriguez Sharon Cantrell, Cafaro Matias J., and May Georgiana. 2018. Diversity in the Mycological Society of America. _Inoculum_, 1-10.  
+  
+ * Branco Sara and Vellinga Else. 2015. Gender Balance in Mycology. _Inoculum_, Vol. 66, Issue 5, 1-4.  
+
+
+
+
