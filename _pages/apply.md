@@ -36,7 +36,8 @@ Mentor applications require information on **1) scientific interests and backgro
 Mentors will be selected to best match the mentees’ interests and assigned with two mentees per MSA meeting.
  
 Mentor duties include:
--   	Attend the MSA meeting
--   	Contact their assigned mentees before the MSA meeting
--   	Meet with mentees at the opening reception, second-day lunch, and join them at the plenary and Karling lectures and respective coffee break
--   	Submit the SPORES post-meeting survey and 500 words about their experience (no later than 30 days after the final day of the annual MSA meeting)
+
+- Attend the MSA meeting
+- Contact their assigned mentees before the MSA meeting
+- Meet with mentees at the opening reception, second-day lunch, and join them at the plenary and Karling lectures and respective coffee break
+- Submit the SPORES post-meeting survey and 500 words about their experience (no later than 30 days after the final day of the annual MSA meeting)
