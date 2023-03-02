@@ -5,13 +5,13 @@ theme_color   : '#022343'
 
 
 ### Site settings ###
-title   : SPORES
+title   : 
 tagline   : 
 lang    : en
 email   : 
 description : 
 baseurl   : "" # the subpath of your site, e.g. /blog
-url   : "https://MSAspores.github.io/index.html"
+url   : "https://MSAspores.github.io/index.md"
 open_new_tab  : true  
 
 
