@@ -1,12 +1,38 @@
 ---
 layout: page
-hero_height: is-fullwidth
+  
 permalink: /about/
 
 ---
 
 ![](/assets/site_images/spores_b.jpg)
+  
+<p><center>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
+.button {border-radius: 12px;}
+</style>
+</head>
+<body>
+
+<h2>Apply to become a SPORES mentor or a mentee</h2><p>
+<p>The application deadline is April 15<sup>th</sup>, 2022</p>
+<button href="https://msaspores.github.io/apply/" class="button button">Apply now</button>
+<p></center> 
+  
 **SPORES (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
 ## Mission  
@@ -18,6 +44,10 @@ The mission of SPORES is to provide opportunities for first-time undergraduate s
 # How does SPORES work?
 
 Specifically, SPORES provides opportunities for undergraduate students from historically underrepresented communities (mentees) to be introduced to MSA for the first time by attending the MSA meeting with the assistance of a mentor (a current mycologist) in a friendly and constructive environment. **The ultimate goal is to foster a sense of belonging in the society and to retain mentees as long-term mycologists.**
+  
+# What does SPORES cover?  
+  
+SPORES covers MSA meeting registration and  one year membership for mentees.  
  
 <br>
 
