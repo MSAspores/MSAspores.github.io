@@ -7,7 +7,7 @@ Diverse scientific visions enrich communities and lead to novel ideas for resear
  
 As an effort to diversify MSA membership, we created the **SPORES program (Society Prioritizes Our Recruitment of Every Scholar)**. SPORES is a mentor-mentee-based program with the mission to diversify, advance, and promote future mycologists via recruitment of undergraduate students from demographics that are underrepresented at MSA. 
 
-SPORES allows diverse and underrepresented (Low Income, African American, Latinx, Asian American Pacific Islander, Native American, First Genetation, ect) budding mycologists to become members of MSA and attend the annual meeting in a supportive environment.
+SPORES allows diverse and underrepresented (Low Income, African American, Latinx, Asian American Pacific Islander, Native American, First Genetation, etc.) budding mycologists to become members of MSA and attend the annual meeting in a supportive environment.
 
 Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and *Mentee**. 
 
