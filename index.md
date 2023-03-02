@@ -18,7 +18,7 @@ SPORES allows diverse and underrepresented (Low Income, African American, Latinx
 
 <br>
 
-Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and *Mentee**. 
+Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and **Mentee**. 
 
 The link to the application form can be found in the [Apply](https://msaspores.github.io/apply/) page.
 
