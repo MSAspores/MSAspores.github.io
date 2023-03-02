@@ -5,7 +5,6 @@ permalink: /apply/
 hero_height: is-fullwidth
 
 ---
-# Congratulations on your decision to apply to SPORES! 
 
 ## SPORES Application for Mentees
   
