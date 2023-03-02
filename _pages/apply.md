@@ -2,6 +2,7 @@
 layout: page
 title: Apply
 permalink: /apply/
+hero_height: is-fullwidth
 
 ---
 
