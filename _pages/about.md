@@ -73,7 +73,7 @@ Mentor duties include:
 <br> 
 
 ## Apply to become a SPORES mentor or a mentee  
-<p>The application deadline is April 15<sup>th</sup>, 2022</p>
+<p>The application deadline is April 15<sup>th</sup>, 2023</p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
       text-decoration: none;
