@@ -10,7 +10,7 @@ hero_height: is-fullwidth
   
 To submit your application:
 
-- Name your document as follow: <Lastname(s)>_<First_or_SecondName>
+- Name your document as follow: lastname(s)_FirstorSecondName
 - A word, text, or PDF format file will be accepted
 - Submit your application to `ortiz432@umn.edu`
 - Use this subject in your email: Mentee SPORES application 2023
