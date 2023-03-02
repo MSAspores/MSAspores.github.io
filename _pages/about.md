@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+hero_height: is-fullwidth
 permalink: /about/
 
 ---
