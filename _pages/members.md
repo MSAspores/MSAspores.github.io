@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Current Members
 permalink: /members/
 hero_height: is-fullwidth
 
