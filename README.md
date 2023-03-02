@@ -9,7 +9,7 @@ As an effort to diversify MSA membership, we created the **SPORES program (Socie
 
 SPORES allows diverse and underrepresented (Low Income, African American, Latinx, Asian American Pacific Islander, Native American, First Genetation, etc.) budding mycologists to become members of MSA and attend the annual meeting in a supportive environment.
 
-Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and *Mentee**. 
+Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and **Mentee**. 
 
 The link to the application form can be found in the [Apply](https://msaspores.github.io/apply/) page.
 
