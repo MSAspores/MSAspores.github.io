@@ -1,26 +1,11 @@
 ---
 layout: page
 hero_height: is-fullwidth
+title: 
 permalink: /about/
 
 ---
-## Apply to become a SPORES mentor or a mentee  
-<p>The application deadline is April 15<sup>th</sup>, 2022</p>
-<style> .button { display: inline-block; padding: 10px 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #ffffff;
-      background-color: #1c87c9;
-      border-radius: 6px;
-      outline: none;
-      } 
-</style> 
-<a href="https://msaspores.github.io/apply" class="button">
-Apply now
-</a>
 
-<br> 
-    
 **SPORES (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
 ## Mission  
@@ -84,3 +69,20 @@ Mentor duties include:
 | MSA Annual Meeting  (MSA Opening Reception, Lunch second day of conference, Plenary and Karling Lecture)   | July 29, 2023 August 3, 2023 |
 | Post-meeting survey to mentors and mentees                                                                 | August 8, 2023               |
 | Mentee annual surveys                                                                                      | 2024, 2025, 2026             |
+
+<br> 
+
+## Apply to become a SPORES mentor or a mentee  
+<p>The application deadline is April 15<sup>th</sup>, 2022</p>
+<style> .button { display: inline-block; padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #1c87c9;
+      border-radius: 6px;
+      outline: none;
+      } 
+</style> 
+<a href="https://msaspores.github.io/apply" class="button">
+Apply now
+</a>
