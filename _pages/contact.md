@@ -1,8 +1,8 @@
 ---
 layout: page
-
 title: Contact
 permalink: /contact/
+hero_height: is-fullwidth
 
 ---
 
