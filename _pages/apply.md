@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Apply
+title: Apply | The application deadline is April 15<sup>th</sup>, 2023
 permalink: /apply/
 hero_height: is-fullwidth
 
 ---
+# Congratulations on your decision to apply to SPORES! 
 
-# S.P.O.R.E.S Application for Mentees
+## SPORES Application for Mentees
   
 To submit your application:
 
@@ -21,7 +22,7 @@ Note that this form will be used to match mentors and mentees and NOT for select
 
 <br> 
 
-## S.P.O.R.E.S Application for Mentors
+## SPORES Application for Mentors
 
 Requirements for application:
 
