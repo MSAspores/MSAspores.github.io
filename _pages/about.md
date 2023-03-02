@@ -1,12 +1,12 @@
 ---
 layout: page
 hero_height: is-fullwidth
-title: 
+title: SPORES
 permalink: /about/
 
 ---
 
-**SPORES (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
+**S.P.O.R.E.S. (Society Prioritizes Our Recruitment of Every Scholar)** aims to attract undergraduate students from underrepresented and underserved communities (**mentees**) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as **mentors** (PhD candidates, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
 ## Mission  
 
@@ -14,11 +14,11 @@ The mission of SPORES is to provide opportunities for first-time undergraduate s
 
 <br>
 
-# How does SPORES work?
+## How does SPORES work?
 
 Specifically, SPORES provides opportunities for undergraduate students from historically underrepresented communities (mentees) to be introduced to MSA for the first time by attending the MSA meeting with the assistance of a mentor (a current mycologist) in a friendly and constructive environment. **The ultimate goal is to foster a sense of belonging in the society and to retain mentees as long-term mycologists.**
   
-# What does SPORES cover?  
+## What does SPORES cover?  
   
 SPORES covers MSA meeting registration and  one year membership for mentees.  
  
