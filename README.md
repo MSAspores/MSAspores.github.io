@@ -11,8 +11,8 @@ SPORES allows diverse and underrepresented (Low Income, African American, Latinx
 
 Check the [About](https://msaspores.github.io/about/) page for more information on the program and the roles of **Mentor** and *Mentee**. 
 
-The link to the application form can be found in the [Apply]() page.
+The link to the application form can be found in the [Apply](https://msaspores.github.io/apply/) page.
 
 Information on current member of SPORES can be found in the [Members](https://msaspores.github.io/members/) page
 
-For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an email to XXX
+For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ortiz432@umn.edu)
