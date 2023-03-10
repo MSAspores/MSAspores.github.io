@@ -68,6 +68,19 @@ Dr. Torres Cruz is from Costa Rica where she studied Biotechnology Engineering a
   </td>
 </tr>	
 	
+  
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;"> Fabiola Pulido-Chavez</span>
+    <br>
+Fabiola is a Plant Pathology Ph.D. candidate at the University of California-Riverside, where she studies post-fire soil microbial successional and functional dynamics. She earned a Master of Science in Forestry at the University of Washington-Seattle,  where she studied the ectomycorrhizal fungi of burned Ponderosa pine forest. Moreover, she earned a Bachelor of Science in Environmental Science from California State University-Fresno. She is also active in various committees within the Mycological Society of America (MSA), including the merchandise chair on the MSA-Student and Postdoc Section and the vice-chair for the Diversity, Equity, and Inclusion (DEI) section.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+    <img src= "{{ "assets/site_images/fab.jpeg" | relative_url }}"/>
+  </td>
+</tr>	
+  
+	
 </table>
 
 
