@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Apply | The application deadline is April 15<sup>th</sup>, 2023
+title: Apply | Mentor application deadline is April 21<sup>st</sup>, 2023
 permalink: /apply/
 hero_height: is-fullwidth
 
 ---
 
-## SPORES Application for Mentees
+## SPORES Application for Mentees (Application is now closed)
   
 To submit your application:
 
