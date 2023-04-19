@@ -36,8 +36,8 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
  * Branco Sara and Vellinga Else. 2015. Gender Balance in Mycology. _Inoculum_, Vol. 66, Issue 5, 1-4.  
 
 <br>
-## Apply to become a SPORES mentor or a mentee  
-<p>The application deadline is April 15<sup>th</sup>, 2023</p>
+## Apply to become a SPORES mentor    
+<p>The application deadline is April 21<sup>st</sup>, 2023</p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
       text-decoration: none;
