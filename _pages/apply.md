@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply | Mentor application deadline is April 21<sup>st</sup>, 2023
+title: Apply | Applications are now closed  
 permalink: /apply/
 hero_height: is-fullwidth
 
