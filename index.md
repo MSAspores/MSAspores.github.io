@@ -37,7 +37,7 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
 
 <br>
 ## Apply to become a SPORES mentor    
-<p>The application deadline is April 21<sup>st</sup>, 2023</p>
+<p>Applications are closed</p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
       text-decoration: none;
