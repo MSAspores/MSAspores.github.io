@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply | Applications are now closed  
+title: Apply | Applications are open!  
 permalink: /apply/
 hero_height: is-fullwidth
 
