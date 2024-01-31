@@ -56,7 +56,20 @@ The link to the application form can be found in the [Apply](https://msaspores.g
 
 Information on current member of SPORES can be found in the [Members](https://msaspores.github.io/members/) page
 
-For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ortiz432@umn.edu)
+For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ttorresc@purdue.edu)
+
+<br>
+
+<!-- SPORES Poster with download functionality -->
+<a href="/mnt/data/SPORES_Poster_24.png" download="SPORES_Poster_24.png">
+    <img src="/mnt/data/SPORES_Poster_24.png" alt="SPORES Poster" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
+</a>
+
+<style>
+    .hover-opacity:hover {
+        opacity: 0.6; /* Opaque effect on hover */
+    }
+</style>
 
 <br>
 
