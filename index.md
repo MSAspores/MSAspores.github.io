@@ -60,14 +60,14 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
 
 <br>
 
-<!-- SPORES Poster with download functionality -->
-<a href="/mnt/data/SPORES_Poster_24.png" download="SPORES_Poster_24.png">
-    <img src="/mnt/data/SPORES_Poster_24.png" alt="SPORES Poster" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
+<!-- SPORES Poster -->
+<a href="https://msaspores.github.io/apply/" class="image-link">
+    <img src="/assets/site_images/SPORES_Poster_24.png" alt="SPORES Poster 2024" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
 </a>
 
 <style>
     .hover-opacity:hover {
-        opacity: 0.6; /* Opaque effect on hover */
+        opacity: 0.7; /* Opaque effect on hover */
     }
 </style>
 
