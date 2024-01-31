@@ -10,6 +10,28 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
 ![](/assets/site_images/spores_b.jpg)
 
 <br>
+<style> 
+    .big-button { 
+        display: block; /* Center the button */
+        margin: 0 auto; /* Auto margins for horizontal centering */
+        padding: 15px 30px; /* Larger padding */
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #1c87c9;
+        border-radius: 6px;
+        outline: none;
+        font-size: 20px; /* Larger font size */
+    } 
+    .top-button {
+        display: block; /* Necessary to apply margins */
+        margin-top: 20px; /* Space above the button */
+    }
+</style> 
+<a href="https://msaspores.github.io/apply" class="big-button top-button">
+Apply now
+</a>
+
  
 Diverse scientific visions enrich communities and lead to novel ideas for research, education, and outreach. However, the vast majority of scientific communities tend to be white and male-dominated. The Mycological Society of America (MSA) is no exception and faces severe issues of gender imbalance (Branco and Vellinga, 2015) and overall underrepresentation, with a majority of MSA members being white, cis-gender, heterosexual, and male (Cheeke et al. 2018). One of the barriers leading to inequity that requires attention is our ability to recruit and retain the diversity of membership.
  
@@ -36,20 +58,19 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
  * Branco Sara and Vellinga Else. 2015. Gender Balance in Mycology. _Inoculum_, Vol. 66, Issue 5, 1-4.  
 
 <br>
-## Apply to become a SPORES mentor or mentee    
-<p>Applications are open</p>
-<style> .button { display: inline-block; padding: 10px 20px;
-      text-align: center;
-      text-decoration: none;
-      color: #ffffff;
-      background-color: #1c87c9;
-      border-radius: 6px;
-      outline: none;
-      } 
-</style> 
-<a href="https://msaspores.github.io/apply" class="button">
-Apply now
-</a>
-
-
-
+<style>
+    .back-to-top {
+        display: block;
+        margin: 20px auto; /* Centering the button */
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #4CAF50; /* Different color to distinguish */
+        border-radius: 6px;
+        outline: none;
+    }
+</style>
+<a href="#top" class="back-to-top">
+Back to Top
+</a>  
