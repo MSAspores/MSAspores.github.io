@@ -87,4 +87,4 @@ Fabiola is a Plant Pathology Ph.D. candidate at the University of California-Riv
 <br><br>
 
 #### Contact Information  
-Contact us via <a href="mailto:ortiz432@umn.edu" style="text-decoration: none; color:#039fb9">E-mail</a>
+Contact us via <a href="mailto:ttorresc@purdue.edu" style="text-decoration: none; color:#039fb9">E-mail</a>
