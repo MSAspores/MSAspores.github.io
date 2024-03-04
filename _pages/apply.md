@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply | Applications are open!  
+title: Apply | Applications are closed  
 permalink: /apply/
 hero_height: is-fullwidth
 
@@ -10,13 +10,11 @@ hero_height: is-fullwidth
   
 Recommendations:
 
-- Name your documents as follows: lastname(s)_FirstorSecondName
 - Submit any questions about the application to `ttorresc@purdue.edu`
 - When emailing, use this subject in your email: Mentee SPORES application 2024
 
 Note that this form will be used to match mentors and mentees and NOT for selection purposes. We will select mentees through a lottery system and all applicants that self-identify as belonging to underrepresented groups in STEM will be considered for SPORES. 
-  
-[Access and start your mentee application](https://forms.gle/xA6AGfGKUJ7iJm9H6)
+
 
 <br> 
 
@@ -27,13 +25,10 @@ Requirements for application:
 - As a mentor, you need to provide a letter of support from a previous mentee, mentor, or supervisor. The person writing the letter of support will send the letter separately. Find the link in the form below.
 
 Recommendations:
-
-- Name your documents as follows: lastname(s)_FirstorSecondName  
+ 
 - Submit any questions about the application to `ttorresc@purdue.edu`  
 - When emailing, use this subject in your email: Mentor SPORES application 2024  
   
-[Access and start your mentor application](https://forms.gle/V2kXzf1Qqi2WaiE3A)
-
 <br>
 <style>
     .back-to-top {
