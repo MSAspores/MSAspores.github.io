@@ -39,7 +39,7 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
     }
 </style> 
 <a href="https://msaspores.github.io/apply" class="big-button top-button">
-Apply now
+Visit the applications page
 </a>
 <br>
 Diverse scientific visions enrich communities and lead to novel ideas for research, education, and outreach. However, the vast majority of scientific communities tend to be white and male-dominated. The Mycological Society of America (MSA) is no exception and faces severe issues of gender imbalance (Branco and Vellinga, 2015) and overall underrepresentation, with a majority of MSA members being white, cis-gender, heterosexual, and male (Cheeke et al. 2018). One of the barriers leading to inequity that requires attention is our ability to recruit and retain the diversity of membership.
@@ -62,7 +62,7 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
 
 <!-- SPORES Poster -->
 <a href="https://msaspores.github.io/apply/" class="image-link">
-    <img src="/assets/site_images/SPORES_Poster_24.png" alt="SPORES Poster 2024" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
+    <img src="/assets/site_images/SPORES_Poster_updated_24.jpg" alt="SPORES Poster 2024" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
 </a>
 
 <style>
