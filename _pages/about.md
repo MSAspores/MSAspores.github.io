@@ -78,8 +78,8 @@ Mentor duties include:
 
 <br> 
 
-## Apply to become a SPORES mentor or mentee   
-<p> Applications are open </p>
+## Applications are closed   
+<p> To learn about the application process, visit the applications page by clicking the button below </p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
       text-decoration: none;
@@ -90,5 +90,5 @@ Mentor duties include:
       } 
 </style> 
 <a href="https://msaspores.github.io/apply" class="button">
-Apply now
+Applications
 </a>
