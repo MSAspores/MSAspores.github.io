@@ -16,6 +16,7 @@ end
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
+  gem "jekyll-remote-theme"
 end
 
 # Performance-booster for watching directories on Windows
