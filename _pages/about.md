@@ -74,7 +74,7 @@ Mentor duties include:
 | **Preconference mentee informational session**    | May, 2025                    |
 | **Pre-meeting survey to mentors and mentees**     | June 20, 2025                |
 | **MSA Annual Meeting (Madison, Wisconsin)**<br> &nbsp;&nbsp;• Foray<br>&nbsp;&nbsp;• Welcome session<br>&nbsp;&nbsp;• Opening reception<br>&nbsp;&nbsp;• Plenary and Karling Lectures<br>&nbsp;&nbsp;• Program wrap-up meeting<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Fill out post-meeting survey<br>&nbsp;&nbsp;• Banquet    | June 28–July 2, 2025              |
-| **Mentee annual surveys**                         | 2025, 2026, 2027             |
+| **Mentee Annual Surveys**                         | 2025, 2026, 2027             |
 
 <br> 
 
