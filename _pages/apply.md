@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Applications are closed  
+title: Receiving Applications until March 31, 2025  
 permalink: /apply/
 hero_height: is-fullwidth
 
@@ -9,7 +9,7 @@ hero_height: is-fullwidth
 ## Information for Mentees  
   
 - Submit any questions about the application to `ttorresc@purdue.edu`
-- When emailing, use this subject in your email: Mentee SPORES application 2024
+- When emailing, use this subject in your email: Mentee SPORES application 2025
 
 Note applications will be used to match mentors and mentees and NOT for selection purposes. We will select mentees through a lottery system and all applicants that self-identify as belonging to underrepresented groups in STEM will be considered for SPORES. 
 
@@ -19,7 +19,7 @@ Note applications will be used to match mentors and mentees and NOT for selectio
 ## Information for Mentors  
    
 - Submit any questions about the application to `ttorresc@purdue.edu`  
-- When emailing, use this subject in your email: Mentor SPORES application 2024  
+- When emailing, use this subject in your email: Mentor SPORES application 2025  
   
 <br>
 <style>
