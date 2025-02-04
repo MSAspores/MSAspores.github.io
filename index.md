@@ -62,7 +62,7 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
 
 <!-- SPORES Poster -->
 <a href="https://msaspores.github.io/apply/" class="image-link">
-    <img src="/assets/site_images/SPORES_Poster_updated_24.jpg" alt="SPORES Poster 2024" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
+    <img src="/assets/site_images/SPORES_Flyer_2025.jpg" alt="SPORES Poster 2025" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
 </a>
 
 <style>
