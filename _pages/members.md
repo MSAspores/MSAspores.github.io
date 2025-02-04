@@ -13,7 +13,7 @@ hero_height: is-fullwidth
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">José E. Solórzano</span>
     <br>
-Jose is currently a Plant Pathology PhD student at the University of Minnesota and current recipient of the MSA Interchange Ambassador Award from the MSA. He earned a Master of Science degree at Louisiana State University and previously earned a Bachelors degree in Agricultural Engineering at the Universidad Nacional de Agricultura y Ganaderia, Honduras.
+Jose is currently a Plant Pathology PhD Candidate at the University of Minnesota and a past recipient of the MSA Interchange Ambassador Award from the MSA. He earned a Master's in Plant Pathology at Louisiana State University and previously earned a bachelor's degree in Agricultural Engineering at the Universidad Nacional de Agricultura y Ganaderia, Honduras.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
     <img src= "{{ "/assets/site_images/Jose.jpg" | relative_url }}"/>
