@@ -1,6 +1,6 @@
 
 ### Theme ###
-remote_theme  : chrisrhymes/bulma-clean-theme
+remote_theme  : chrisrhymes/bulma-clean-theme@v0.14.0
 theme_color   : '#022343'
 
 
@@ -52,7 +52,7 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
 #theme: minima
 
 plugins:
