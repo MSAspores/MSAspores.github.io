@@ -15,7 +15,7 @@ The link to the application form can be found in the [Apply](https://msaspores.g
 
 Information on current member of SPORES can be found in the [Members](https://msaspores.github.io/members/) page
 
-For additional inforamtion, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ortiz432@umn.edu)
+For additional information, please visit the [Contact](https://msaspores.github.io/contact/) or send us an [e-mail](mailto:ortiz432@umn.edu)
 
  <br>
  
