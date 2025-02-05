@@ -22,7 +22,7 @@ Note applications will be used to match mentors and mentees and NOT for selectio
       outline: none;
       } 
 </style> 
-<a href="[Form](https://docs.google.com/forms/d/e/1FAIpQLSeVYub8RP8XNxOKkoY42skyjwCOGB7rrkyOzmewCgP823L2-w/viewform?usp=sharing/)" class="button">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVYub8RP8XNxOKkoY42skyjwCOGB7rrkyOzmewCgP823L2-w/viewform?usp=sharing" class="button">
 Mentee Application Form
 </a>
 
