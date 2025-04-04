@@ -60,19 +60,6 @@ For additional inforamtion, please visit the [Contact](https://msaspores.github.
 
 <br>
 
-<!-- SPORES Poster -->
-<a href="https://msaspores.github.io/apply/" class="image-link">
-    <img src="/assets/site_images/SPORES_Flyer_2025_UPDATEDQR.jpg" alt="SPORES Poster 2025" style="transition: opacity 0.3s ease;" class="hover-opacity"/>
-</a>
-
-<style>
-    .hover-opacity:hover {
-        opacity: 0.7; /* Opaque effect on hover */
-    }
-</style>
-
-<br>
-
 ### References
 
  * Cheeke Tanya E., Branco Sara, Haelewaters Danny, Natvig Donald O., Maltz Mia, Rodriguez Sharon Cantrell, Cafaro Matias J., and May Georgiana. 2018. Diversity in the Mycological Society of America. _Inoculum_, 1-10.  
