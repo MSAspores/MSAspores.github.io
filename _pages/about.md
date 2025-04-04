@@ -78,7 +78,7 @@ Mentor duties include:
 
 <br> 
 
-## Applications are open! Deadline for submission: March 31, 2025   
+## Applications are closed.
 <p> To learn about the application process, visit the applications page by clicking the button below </p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
