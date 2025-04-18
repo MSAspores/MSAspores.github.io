@@ -11,18 +11,6 @@ hero_height: is-fullwidth
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">José E. Solórzano</span>
-    <br>
-Jose is currently a Plant Pathology PhD Candidate at the University of Minnesota and a past recipient of the MSA Interchange Ambassador Award from the MSA. He earned a Master's in Plant Pathology at Louisiana State University and previously earned a bachelor's degree in Agricultural Engineering at the Universidad Nacional de Agricultura y Ganaderia, Honduras.
-  </td>
-  <td style="width:30%;border:none;font-size:16px;">
-    <img src= "{{ "/assets/site_images/Jose.jpg" | relative_url }}"/>
-  </td>
-</tr>
-
-
-<tr style="border:none;">
-  <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">Dr. Sara Branco</span>
     <br>
 Dr. Branco completed her PhD in Evolutionary Biology from the University of Chicago as a Fulbright scholar, was a Postdoctoral Researcher at the University of California, Berkeley and a Marie Curie Postdoctoral Fellow at the University of Paris. She has been studying fungi since she was 16 years old and earned her undergraduate degree at the University of Lisbon (Portugal). Currently Dr. Branco is an Assistant Professor at the Department of Integrative Biology at University of Colorado Denver.
