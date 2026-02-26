@@ -14,18 +14,22 @@ hero_height: is-fullwidth
   
 <br>
 <style>
-    .back-to-top {
+    .form-button {
         display: block;
         margin: 20px auto; /* Centering the button */
-        padding: 10px 20px;
+        padding: 12px 24px;
         text-align: center;
         text-decoration: none;
-        color: #000000; /* Black text */
-        background-color: #1c87c9
-        border: 6px;
-        outline: none;
-        cursor: pointer; /* Cursor changes to a hand icon */
-    }
+        color: white;
+        background-color: #1c87c9;
+        border-radius: 8px;
+        font-weight: bold;
+        width: fit-content;
+}
+
+.form-button:hover {
+    background-color: #1565a0;
+}
 </style>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlsgXMmCYJHSInziggbJ-0iOiNyuGiYiAk9WCYXUC2TJiVXQ/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
 Mentee Application Form
@@ -35,20 +39,24 @@ Mentee Application Form
   
 <br>
 <style>
-    .back-to-top {
+    .form-button {
         display: block;
         margin: 20px auto; /* Centering the button */
-        padding: 10px 20px;
+        padding: 12px 24px;
         text-align: center;
         text-decoration: none;
-        color: #000000; /* Black text */
-        background-color: #1c87c9
-        border: 6px;
-        outline: none;
-        cursor: pointer; /* Cursor changes to a hand icon */
-    }
+        color: white;
+        background-color: #1c87c9;
+        border-radius: 8px;
+        font-weight: bold;
+        width: fit-content;
+}
+
+.form-button:hover {
+    background-color: #1565a0;
+}
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="button">
 Mentor Application Form
 </a>
 
@@ -56,19 +64,23 @@ Mentor Application Form
   
 <br>
 <style>
-    .back-to-top {
+    .form-button {
         display: block;
         margin: 20px auto; /* Centering the button */
-        padding: 10px 20px;
+        padding: 12px 24px;
         text-align: center;
         text-decoration: none;
-        color: #000000; /* Black text */
-        background-color: #1c87c9
-        border: 6px;
-        outline: none;
-        cursor: pointer; /* Cursor changes to a hand icon */
-    }
+        color: white;
+        background-color: #1c87c9;
+        border-radius: 8px;
+        font-weight: bold;
+        width: fit-content;
+}
+
+.form-button:hover {
+    background-color: #1565a0;
+}
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="button">
 Letter of Support for Mentor Submission
 </a>
