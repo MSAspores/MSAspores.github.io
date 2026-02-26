@@ -27,8 +27,8 @@ hero_height: is-fullwidth
         cursor: pointer; /* Cursor changes to a hand icon */
     }
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlsgXMmCYJHSInziggbJ-0iOiNyuGiYiAk9WCYXUC2TJiVXQ/viewform?usp=sharing&ouid=106740048350624381719" class="back-to-top">
-Back to Top
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlsgXMmCYJHSInziggbJ-0iOiNyuGiYiAk9WCYXUC2TJiVXQ/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
+Mentee Application Form
 </a>
 
 ## Mentor applications  
@@ -48,8 +48,8 @@ Back to Top
         cursor: pointer; /* Cursor changes to a hand icon */
     }
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="back-to-top">
-Back to Top
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
+Mentor Application Form
 </a>
 
 ## Submit a letter of support for a mentor   
@@ -69,6 +69,6 @@ Back to Top
         cursor: pointer; /* Cursor changes to a hand icon */
     }
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="back-to-top">
-Back to Top
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
+Letter of Support for Mentor Submission
 </a>
