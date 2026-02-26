@@ -6,9 +6,9 @@ hero_height: is-fullwidth
 
 ---
 
-![SPORES Flyer 2026](SPORES_Flyer_2026.png)
-
-
+<p align="center">
+  <img src="SPORES_Flyer_2026.png" width="80%">
+</p>
 
 ## Use the links below to submit your application:  
   
