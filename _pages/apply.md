@@ -10,7 +10,7 @@ hero_height: is-fullwidth
 
 
 
-## Mentee applications  
+## Use the links below to submit your application:  
   
 <br>
 <style>
@@ -31,7 +31,7 @@ hero_height: is-fullwidth
 Mentee Application Form
 </a>
 
-## Mentor applications  
+
   
 <br>
 <style>
@@ -52,7 +52,7 @@ Mentee Application Form
 Mentor Application Form
 </a>
 
-## Submit a letter of support for a mentor   
+
   
 <br>
 <style>
