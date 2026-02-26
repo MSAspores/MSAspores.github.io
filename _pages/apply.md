@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Applications are closed
+title: We are accepting applications
 permalink: /apply/
 hero_height: is-fullwidth
 
 ---
 
-## Information will be available here next year.  
+## Mentee applications  
   
 <br>
 <style>
