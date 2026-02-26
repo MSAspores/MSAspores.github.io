@@ -7,7 +7,7 @@ hero_height: is-fullwidth
 ---
 
 <p align="center">
-  <img src="SPORES_Flyer_2026.png" width="80%">
+  <img src="SPORES_Flyer_2026.png" width="60%">
 </p>
 
 ## Use the links below to submit your application:  
@@ -35,7 +35,7 @@ hero_height: is-fullwidth
 Mentee Application Form
 </a>
 
-
+##
   
 <br>
 <style>
@@ -56,11 +56,11 @@ Mentee Application Form
     background-color: #1565a0;
 }
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="button">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScy24BJhDDbp4aqhU2-eXm1WyJpoyvSJ_ojfUlWumePemlhRw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
 Mentor Application Form
 </a>
 
-
+##
   
 <br>
 <style>
@@ -81,6 +81,6 @@ Mentor Application Form
     background-color: #1565a0;
 }
 </style>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="button">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf6KUuavRJtFoUhokwvoJtIDbx-7VQu4q-LUeHvs7YgUe2yXw/viewform?usp=sharing&ouid=106740048350624381719" class="form-button">
 Letter of Support for Mentor Submission
 </a>
