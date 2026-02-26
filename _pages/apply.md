@@ -6,7 +6,7 @@ hero_height: is-fullwidth
 
 ---
 
-![SPORES Flyer 2026](assets/site_images/SPORES_Flyer_2026.png)
+![SPORES Flyer 2026](SPORES_Flyer_2026.png)
 
 
 
