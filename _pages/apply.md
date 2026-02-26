@@ -21,8 +21,8 @@ hero_height: is-fullwidth
         text-align: center;
         text-decoration: none;
         color: #000000; /* Black text */
-        background-color: transparent; /* Transparent background */
-        border: none; /* Remove border */
+        background-color: #1c87c9
+        border: 6px;
         outline: none;
         cursor: pointer; /* Cursor changes to a hand icon */
     }
@@ -42,8 +42,8 @@ Mentee Application Form
         text-align: center;
         text-decoration: none;
         color: #000000; /* Black text */
-        background-color: transparent; /* Transparent background */
-        border: none; /* Remove border */
+        background-color: #1c87c9
+        border: 6px;
         outline: none;
         cursor: pointer; /* Cursor changes to a hand icon */
     }
@@ -63,8 +63,8 @@ Mentor Application Form
         text-align: center;
         text-decoration: none;
         color: #000000; /* Black text */
-        background-color: transparent; /* Transparent background */
-        border: none; /* Remove border */
+        background-color: #1c87c9
+        border: 6px;
         outline: none;
         cursor: pointer; /* Cursor changes to a hand icon */
     }
