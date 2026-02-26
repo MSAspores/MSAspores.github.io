@@ -73,12 +73,12 @@ Mentor duties include:
 | **Preconference mentor informational session**    | May, 2026                    |
 | **Preconference mentee informational session**    | May, 2026                    |
 | **Pre-meeting survey to mentors and mentees**     | July 01, 2026                |
-| **MSA Annual Meeting (Portland, Oregon)**<br> &nbsp;&nbsp;• Foray<br>&nbsp;&nbsp;• Welcome session<br>&nbsp;&nbsp;• Opening reception<br>&nbsp;&nbsp;• Plenary and Karling Lectures<br>&nbsp;&nbsp;• Program wrap-up meeting<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Fill out post-meeting survey<br>&nbsp;&nbsp;• Banquet    | July 11–15, 2026              |
+| **MSA Annual Meeting (Portland, Oregon)**<br> &nbsp;&nbsp;• Foray<br>&nbsp;&nbsp;• Welcome session<br>&nbsp;&nbsp;• Opening reception<br>&nbsp;&nbsp;• Plenary and Karling Lectures<br>&nbsp;&nbsp;• Program wrap-up meeting<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Fill out post-meeting survey<br>&nbsp;&nbsp;• Banquet    | July 11–15, 2026              |
 | **Mentee Annual Surveys**                         | 2026, 2027, 2028             |
 
 <br> 
 
-## We are accepting applications!!! [Deadline: March 31, 2026]
+## We are accepting applications!!! Deadline: March 31, 2026
 <p> To learn about the application process, visit the applications page by clicking the button below </p>
 <style> .button { display: inline-block; padding: 10px 20px;
       text-align: center;
