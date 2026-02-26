@@ -7,6 +7,6 @@ hero_height: is-fullwidth
 ---
 
 ### Contact us
-<a href="mailto:ttorresc@purdue.edu" class="button is-normal is-responsive is-outlined">
+<a href="mailto:caro.ppaez@gmail.com" class="button is-normal is-responsive is-outlined">
 E-mail
 </a>
