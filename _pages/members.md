@@ -28,7 +28,7 @@ Dr. Carolina Piña Páez is an evolutionary fungal biologist and mycologist who 
 Dr. Emile Gluck-Thaler. Fungi are my passion. From my early days working at the Mycoboutique to now running the Fungal Interactions Lab, I want to understand how fungi work so we can harness fungal opportunities and better manage fungal threats. One of the best parts of my job is mentoring students and postdocs. My mission as a mentor is to empower and inspire trainees to become life-long learners by building independence, confidence and curiosity. I received my PhD in 2019 from the Slot lab at the Ohio State University, and went on to postdoc at the University of Pennsylvania in the Wood lab and the University of Neuchatel in Switzerland in the Croll lab, where I was a Marie Sklodowska-Curie Fellow. I began my position in the Department of Plant Pathology at UW-Madison in 2023. 
     </td>
     <td style="width:30%;border:none;font-size:16px;">
-	<img src= "{{ "assets/site_images/emile.jpeg" | relative_url }}"/>
+	<img src= "{{ "assets/site_images/Emile.jpeg" | relative_url }}"/>
     </td>
 </tr>
 
@@ -76,7 +76,7 @@ Fabiola is a Plant Pathology Ph.D. candidate at the University of California-Riv
 Prasanth Prakash Prabhu is an evolutionary biologist and PhD candidate in the Hibbett Lab at Clark University. His research focuses on using advanced genomic tools to unravel how fungi interact with and adapt to the natural world.
 	</td>
   <td style="width:30%;border:none;font-size:16px;">
-    <img src= "{{ "assets/site_images/prasanth.jpeg" | relative_url }}"/>
+    <img src= "{{ "assets/site_images/Prasanth.jpeg" | relative_url }}"/>
   </td>
 </tr>
 
