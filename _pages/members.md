@@ -11,24 +11,24 @@ hero_height: is-fullwidth
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">Dr. Sara Branco</span>
+    <span style="font-weight:700;">Dr. Carolina Piña Páez</span>
     <br>
-Dr. Branco completed her PhD in Evolutionary Biology from the University of Chicago as a Fulbright scholar, was a Postdoctoral Researcher at the University of California, Berkeley and a Marie Curie Postdoctoral Fellow at the University of Paris. She has been studying fungi since she was 16 years old and earned her undergraduate degree at the University of Lisbon (Portugal). Currently Dr. Branco is an Assistant Professor at the Department of Integrative Biology at University of Colorado Denver.
+Dr. Carolina Piña Páez is an evolutionary fungal biologist and mycologist who combines fieldwork and molecular tools to investigate fungal taxonomy, population genetics, and genomics across diverse systems ranging from ectomycorrhizal mutualists to human pathogens. After earning her PhD from Oregon State University in 2023 under the mentorship of the Spatafora Lab and completing a postdoc studying pathogen genomics in the Stajich Lab at the University of California, Riverside, she is transitioning to a Research Fellow position at the Bermuda Institute of Ocean Sciences (BIOS) this summer. A dedicated advocate for accessible science, Carolina frequently collaborates with international institutions to champion bilingual scientific outreach in both English and Spanish.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
-    <img src= "{{ "assets/site_images/sb.jpg" | relative_url }}"/>
+    <img src= "{{ "assets/site_images/caro.jpg" | relative_url }}"/>
   </td>
 </tr>
   
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">Dr. Lotus Lofgren</span> 
+    <span style="font-weight:700;">Dr. Emile Gluck-Thaler</span> 
 <br>
-Dr. Lofgren is an NIH Postdoctoral Research Fellow in the Tri-Institutional Molecular Mycology and Pathogenesis. Training Program, Biology Department, Duke University, Durham, NC.
+Dr. Emile Gluck-Thaler. Fungi are my passion. From my early days working at the Mycoboutique to now running the Fungal Interactions Lab, I want to understand how fungi work so we can harness fungal opportunities and better manage fungal threats. One of the best parts of my job is mentoring students and postdocs. My mission as a mentor is to empower and inspire trainees to become life-long learners by building independence, confidence and curiosity. I received my PhD in 2019 from the Slot lab at the Ohio State University, and went on to postdoc at the University of Pennsylvania in the Wood lab and the University of Neuchatel in Switzerland in the Croll lab, where I was a Marie Sklodowska-Curie Fellow. I began my position in the Department of Plant Pathology at UW-Madison in 2023. 
     </td>
     <td style="width:30%;border:none;font-size:16px;">
-	<img src= "{{ "assets/site_images/Lof.jpg" | relative_url }}"/>
+	<img src= "{{ "assets/site_images/emile.jpeg" | relative_url }}"/>
     </td>
 </tr>
 
@@ -47,12 +47,12 @@ Dr. Tabima is an Assistant Professor of Genomics at the Department of Biology of
 	
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;"> Dr. Terry Torres Cruz</span>
+    <span style="font-weight:700;"> Dr. Korena Mafune</span>
     <br>
-Dr. Torres Cruz is from Costa Rica where she studied Biotechnology Engineering at Instituto Tecnológico de Costa Rica. For her undergraduate thesis work, she spent 3 months in the United States working under the supervision of Dr. Andrea Porras-Alfaro researching heavy metal-tolerant soil fungi. This led to doing her M.Sc. in Biology in Dr. Porras-Alfaro’s lab working on the description of a novel genus and species in the Mucoromycotina (Bifiguratus adelaidae); a taxon that had been abundantly found in environmental sequencing, yet no cultures were known, and was designated as one of the “top 50 most wanted fungi”. Dr. Torres Cruz subsequently worked as a field technician for the U.S. Geological Survey in Moab, Utah focusing on the effects of drought and increasing temperatures on biological soil crusts; among other projects before joining Penn State for a PhD in Plant Pathology with a dual title in Biogeochemistry in the lab of Dr. David Geiser. Dr. Torres Cruz's dissertation project focused on a novel Fusarium species that produces a pseudo flower on yellow-eyed grasses endemic to northern South America, describing this plant-fungal interaction and how it may affect the attraction of insects. Dr. Torres Cruz is currently in the process of moving to Indiana to start a postdoc position in Dr. Catherine Aime’s lab at Purdue University. Besides research and fieldwork, She enjoys being involved in student organizations, mentoring students, volunteering in the community, and advocating for diversity, equity, and inclusion in STEM. I am a past chair of the MSA Student and Postdoc Section and have served as a student representative on various MSA committees since joining the society in 2015.
+Dr. Korena Mafune is an ecosystem and soil ecologist whose research focuses on below-ground processes, plant-microbe interactions, and the agricultural applications of root-associated fungi and bacteria. After earning her MS and PhD from the University of Washington's School of Environmental and Forest Sciences—where her pioneering research explored nutrient dynamics in canopy soils—she was named a Washington Research Foundation Postdoctoral Fellow in the Winkler Lab. Beyond her research and extensive teaching experience, Korena is a passionate science communicator who collaborates with international and local organizations to broaden the participation of underrepresented communities in STEM.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
-    <img src= "{{ "assets/site_images/tr.jpg" | relative_url }}"/>
+    <img src= "{{ "assets/site_images/korena.jpg" | relative_url }}"/>
   </td>
 </tr>	
 	
@@ -67,12 +67,34 @@ Fabiola is a Plant Pathology Ph.D. candidate at the University of California-Riv
     <img src= "{{ "assets/site_images/fab.jpeg" | relative_url }}"/>
   </td>
 </tr>	
-  
-	
-</table>
 
+  
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;"> Prasanth Prakash Prabhu</span>
+    <br>
+Prasanth Prakash Prabhu is an evolutionary biologist and PhD candidate in the Hibbett Lab at Clark University. His research focuses on using advanced genomic tools to unravel how fungi interact with and adapt to the natural world.
+	</td>
+  <td style="width:30%;border:none;font-size:16px;">
+    <img src= "{{ "assets/site_images/prasanth.jpeg" | relative_url }}"/>
+  </td>
+</tr>
+
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;"> Christopher Bivins</span>
+    <br>
+Christopher Bivins is a mycologist with eight years of experience studying the ecology and biodiversity of California fungi, with a primary focus on the Sierra Nevada mountains. After completing his master’s degree at Fresno State with Dr. Alija Mujic investigating ectomycorrhizal symbioses with mycoheterotrophic plants, he became a PhD candidate at UC Merced, where he now studies complex ecological networks involving fungi, oaks, woodrats, and cynipid wasps. Throughout his fieldwork in the Sierra Nevada foothill region, Christopher has discovered multiple undescribed fungal species that he is currently working to taxonomically characterize and name.
+	</td>
+  <td style="width:30%;border:none;font-size:16px;">
+    <img src= "{{ "assets/site_images/chris.jpeg" | relative_url }}"/>
+  </td>
+</tr>
+
+
+</table>
 
 <br><br>
 
 #### Contact Information  
-Contact us via <a href="mailto:ttorresc@purdue.edu" style="text-decoration: none; color:#039fb9">E-mail</a>
+Contact us via <a href="mailto:carolina.ppaez@gmail.com" style="text-decoration: none; color:#039fb9">E-mail</a>
