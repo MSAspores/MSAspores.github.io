@@ -82,7 +82,7 @@ Prasanth Prakash Prabhu is an evolutionary biologist and PhD candidate in the Hi
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;"> Christopher Bivins - Graduate Student Rep</span>
+    <span style="font-weight:700;"> Christopher Bivins - SPORES Graduate Student Rep</span>
     <br>
 Christopher Bivins is a mycologist with eight years of experience studying the ecology and biodiversity of California fungi, with a primary focus on the Sierra Nevada mountains. After completing his master’s degree at Fresno State with Dr. Alija Mujic investigating ectomycorrhizal symbioses with mycoheterotrophic plants, he became a PhD candidate at UC Merced, where he now studies complex ecological networks involving fungi, oaks, woodrats, and cynipid wasps. Throughout his fieldwork in the Sierra Nevada foothill region, Christopher has discovered multiple undescribed fungal species that he is currently working to taxonomically characterize and name.
 	</td>
